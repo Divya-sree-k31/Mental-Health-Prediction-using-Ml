@@ -332,6 +332,36 @@ Technical Advantages
 
 6. User-Friendly: Clear recommendations and actionable insights
 
+How to Run
+---------------
+Clone the repository:
+
+git clone https://github.com/yourusername/ecommerce-customer-segmentation.git
+
+Install required packages:
+
+pip install -r requirements.txt
+
+Open the notebook:
+
+jupyter notebook Project\ Final\ process.ipynb
+
+Requirements
+-------------
+Python 3.7+
+
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+scikit-learn
+
+jupyter
+
 Conclusion :
 ------------
 This mental health prediction project successfully demonstrates a comprehensive machine learning approach that trains and evaluates eight different algorithms to identify individuals at risk of mental health disorders, with the best-performing model (typically Random Forest or Gradient Boosting) achieving robust performance through balanced accuracy, precision, and recall metrics while providing interpretable feature importance rankings that highlight key risk factors like stress levels, sleep patterns, and social support. The system integrates end-to-end functionality from data preprocessing and model training to prediction generation and personalized recommendations, creating a production-ready tool that can assist healthcare professionals in early mental health screening and intervention planning.
