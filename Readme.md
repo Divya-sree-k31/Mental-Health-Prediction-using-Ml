@@ -336,7 +336,7 @@ How to Run
 ---------------
 Clone the repository:
 
-git clone https://github.com/yourusername/ecommerce-customer-segmentation.git
+git clone https://github.com/Divya-sree-k31/Mental-Health-Prediction-using-Ml.git
 
 Install required packages:
 
