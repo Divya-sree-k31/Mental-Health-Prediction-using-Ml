@@ -17,11 +17,11 @@ Purpose: Import all necessary libraries for data processing, machine learning, a
  
 * Data Processing: pandas, numpy
   
-*Visualization: matplotlib, seaborn
+* Visualization: matplotlib, seaborn
 
-*Machine Learning: scikit-learn (multiple modules)
+* Machine Learning: scikit-learn (multiple modules)
 
-*Model Types: Random Forest, SVM, Neural Networks, Gradient Boosting, etc.
+* Model Types: Random Forest, SVM, Neural Networks, Gradient Boosting, etc.
 
 2. Class Structure - MentalHealthPredictor
 ------------------------------------------   
