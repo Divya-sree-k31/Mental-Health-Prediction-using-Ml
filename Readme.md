@@ -285,7 +285,7 @@ Evaluation Framework:
 * Visual Analysis: 6 different visualization types
 
 * Performance Ranking: Automatic best model identification
-* 
+
 User Interface
 
 * Prediction API: Easy-to-use prediction function
